@@ -9,9 +9,15 @@ This project is GPLv3 open-source and was designed with the assistance my daught
 ## Printing instructions
 The model has been printed and tested on the Prusa MK3S/MMU2S printer using Prusament PETG filament. All parts fit the standard print bed.
 
-You will need 5x M3x5.7 threaded inserts (along with 5 M3x10mm screws) and 1x 608-2Z ball bearing.  The base is weighted using 5x M20 washers (DIN9021 - id=22, od=60, h=3.5).
+You will need:
 
-When mounting the washers in the base it is advisable to pad any gap at the top of the bearings to stop them moving around.  Some foam tape or small bits of foam will work well.
+* 5x M3x5.7 threaded inserts (heat-set)
+* 5x M3x10mm screws
+* 1x 608-2Z ball bearing
+* 5x M20 washers (DIN9021 - id=22, od=60, h=3.5).
+* 5x 13mm stick-on feet
+
+When mounting the washers in the base it is advisable to pad any gap at the top of the bearings to stop them moving around.  Some foam tape or small bits of loose foam will work well.
 
 ### Recommended print settings
 
