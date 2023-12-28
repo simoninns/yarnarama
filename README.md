@@ -4,6 +4,8 @@ Yaranarama is a yarn holder for the discerning knitting engineer.  It features a
 
 This project is GPLv3 open-source and was designed with the assistance my daughter who is an enthusiastic knitter.
 
+<img src="/photos/assemb9.jpg" width="800">
+
 ## Printing instructions
 The model has been printed and tested on the Prusa MK3S/MMU2S printer using Prusament PETG filament. All parts fit the standard print bed.
 
@@ -26,21 +28,43 @@ Note: 0.30mm is used for fast print speed.  You can also use 0.20mm (Quality) if
 
 Print all the parts.
 
+<img src="/photos/All_parts.jpg" width="800">
+
 Insert the heat set inserts in the base (4x) and spool base (1x).
 
-Push fit the bearing into the base of the spool holder.
+<img src="/photos/assemb1.jpg" width="800">
 
-Put an M3x10mm screw into the bearing holder and then push fit through the spindle and into the bearing.
+Stick the 5 13mm feet to the base of the Yarnarama
+
+<img src="/photos/assemb2.jpg" width="800">
 
 Place 5 washers into the base, add some foam to the top washer to stop it moving when assembled.
 
-Screw the spool base into place using 2x M3x10mm screws.
+<img src="/photos/assemb3.jpg" width="800">
 
-Place the spool shaft onto the spool base and screw into place using the central M3x10mm screw (in the bearing holder)
+Screw the spool base into place using 2x M3x10mm screws and put 1x M3x10mm screw into the spool holder
+
+<img src="/photos/assemb4.jpg" width="800">
 
 Glue the guide rail into the provided slot of the guide (using a small amount of superglue)
 
+<img src="/photos/assemb5.jpg" width="800">
+
 Screw the guide into the base using 2x M3x10mm screws.
+
+<img src="/photos/assemb6.jpg" width="800">
+
+Push the spool holder through the bearing
+
+<img src="/photos/assemb7.jpg" width="800">
+
+Push the bearing into the base of the spool shaft
+
+<img src="/photos/assemb8.jpg" width="800">
+
+Place the spool shaft onto the spool base and screw into place using the central M3x10mm screw (in the bearing holder)
+
+<img src="/photos/assemb9.jpg" width="800">
 
 ## Author
 The Yanarama is designed and maintained by Simon Inns.
