@@ -32,7 +32,7 @@ Note: 0.30mm is used for fast print speed.  You can also use 0.20mm (Quality) if
 
 ## Assembly
 
-Print all the parts.
+Print all the parts.  Note that there are two types of shafts included, the standard diameter and a narrow shaft (to allow the yarn to relax slightly more).
 
 <img src="/photos/All_parts.jpg" width="800">
 

@@ -29,6 +29,7 @@ use <BOSL/shapes.scad>
 // Local includes
 include <spool_base.scad>
 include <spool_shaft.scad>
+include <spool_shaft_narrow.scad>
 include <base.scad>
 include <guide.scad>
 include <washers.scad>
@@ -43,6 +44,7 @@ for_printing = "Display"; // [Display, Printing]
 // Choose what to display
 display_spool_base = "Yes"; // [Yes, No]
 display_spool_shaft = "Yes"; // [Yes, No]
+display_spool_shaft_narrow = "Yes"; // [Yes, No]
 display_base = "Yes"; // [Yes, No]
 display_bearing_holder = "Yes"; // [Yes, No]
 display_guide = "Yes"; // [Yes, No]
@@ -60,6 +62,7 @@ module main()
     // Display selections
     d_spool_base = (display_spool_base == "Yes") ? true:false;
     d_spool_shaft = (display_spool_shaft == "Yes") ? true:false;
+    d_spool_shaft_narrow = (display_spool_shaft_narrow == "Yes") ? true:false;
     d_base = (display_base == "Yes") ? true:false;
     d_bearing_holder = (display_bearing_holder == "Yes") ? true:false;
     d_guide = (display_guide == "Yes") ? true:false;
@@ -70,6 +73,7 @@ module main()
 
     if (d_spool_base) render_spool_base(toPrint);
     if (d_spool_shaft) render_spool_shaft(toPrint);
+    if (d_spool_shaft_narrow) render_spool_shaft_narrow(toPrint);
     if (d_base) render_base(toPrint);
     if (d_bearing_holder) render_bearing_holder(toPrint);
     if (d_guide) render_guide(toPrint);
